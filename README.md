@@ -38,6 +38,9 @@ This would be a great improvement for smoother usage of the app. If the app had 
 **Error handling.**  
 I implemented basic error handling, which is sufficient for this version, but it could be made more comprehensive.
 
+**Componentization**
+I would split the app into multiple components to make it more maintainable.
+
 **Animations.**  
 I chose to use `flutter_animate` because it provides expressive animations with minimal boilerplate. Unfortunately, I did not have time to implement fade transitions for the background and other refinements.
 
