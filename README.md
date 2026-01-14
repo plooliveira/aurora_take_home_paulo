@@ -9,8 +9,7 @@ Completed on January 13, 2026
 - **A few minutes** – Short breaks for coffee since it was late at night 🙃
 
 ---
-
-<video src="demo.mp4" controls width="100%"></video>
+Demo: https://github.com/plooliveira/aurora_take_home_paulo/blob/77dc7c3c7f92010668a6b9c5227c69486193bfcf/demo.mp4
 
 ### Initial comments
 
